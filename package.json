@@ -1,0 +1,23 @@
+{
+  "name": "typescript-path-mapping",
+  "version": "1.0.0",
+  "description": "Using path mapping inside TS configuration",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thibaultboursier/typescript-path-mapping.git"
+  },
+  "author": "Thibault Boursier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thibaultboursier/typescript-path-mapping/issues"
+  },
+  "homepage": "https://github.com/thibaultboursier/typescript-path-mapping#readme"
+}
